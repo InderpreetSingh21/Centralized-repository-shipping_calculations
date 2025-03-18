@@ -1,4 +1,3 @@
-#Here is another Update by InderpreetSingh21
 #Here is a new update by InderpreetSingh21
 # Shipping Cost Calculator
 
